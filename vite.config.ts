@@ -13,7 +13,7 @@ export default defineConfig({
       registerType: "autoUpdate",
     }),
   ],
-  base: "/",
+  base: "/skandar-uvsq.github.io/",
   test: {
     globals: true,
     environment: 'jsdom',
